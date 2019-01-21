@@ -1,4 +1,4 @@
-# Setting-Your-Budget
+# Setting-Up-Your-Budget
 This program is developed for those who have got a little bit expertise using Lists, and output formats have been used to maintain 
 the cemetery of data and its alignment being displayed on console. It would provide good understanding on small menu based program 
 on console.
